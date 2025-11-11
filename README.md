@@ -71,4 +71,5 @@ It highlights key business metrics such as total sales, total orders, and quanti
 - **Excel**
 
 ---
+<img width="1144" height="683" alt="Screenshot 2025-10-25 021749" src="https://github.com/user-attachments/assets/8f69126e-449d-455f-8158-949a64d97b1d" />
 
